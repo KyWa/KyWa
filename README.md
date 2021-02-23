@@ -4,10 +4,10 @@
 :construction: As with most things (and the late, but great GeoCities), this is a work in progress. :construction: 
 
 ## 🔭 I’m currently working on ...
-* mineOps - Teaching DevOps tooling with Minecraft Server
+* [![mineOps]][mineOps] - Teaching DevOps tooling with Minecraft Server
 
 ## 🌱 I’m currently learning ...
-* Helm
+* Helm - v3 is actually quite amazing and coming from Ansible, the templating is super easy to pick up
  
 ## 👯 I’m looking to collaborate on ...
 * Anything in the OpenShift/Kubernetes space and supporting envrionments
@@ -21,5 +21,6 @@
 
 
 
+[mineOps]: https://github.com/KyWa/mineOps
 [linkedin-url]: https://www.linkedin.com/in/kyle-walker-5b151335/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
