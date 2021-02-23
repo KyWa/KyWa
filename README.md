@@ -22,3 +22,4 @@
 
 
 [linkedin-url]: https://www.linkedin.com/in/kyle-walker-5b151335/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
