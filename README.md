@@ -11,8 +11,6 @@
  
 ## 👯 I’m looking to collaborate on ...
 * Anything in the OpenShift/Kubernetes space and supporting envrionments
- 
-## 🤔 I’m looking for help with ...
 * Most tooling in the DevOps world.
 * Enabling GPUs in a secure way for containerized workloads
  
