@@ -4,7 +4,7 @@
 :construction: As with most things (and the late, but great GeoCities), this is a work in progress. :construction: 
 
 ## 🔭 I’m currently working on ...
-* [![mineOps]][mineOps] - Teaching DevOps tooling with Minecraft Server
+* [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
 
 ## 🌱 I’m currently learning ...
 * Helm - v3 is actually quite amazing and coming from Ansible, the templating is super easy to pick up
