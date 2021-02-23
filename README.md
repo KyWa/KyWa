@@ -1,7 +1,8 @@
-### Hi there 👋
+### Kyle Walker
+
+:construction: As with most things (and the late, but great GeoCities), this is a work in progress. :construction: 
 
 <!--
-**KyWa/KyWa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
