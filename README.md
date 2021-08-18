@@ -4,6 +4,7 @@
 :construction: As with most things (and the late, but great GeoCities), this is a work in progress. :construction: 
 
 ## 🔭 I’m currently working on ...
+* [ansible-for-openshift](https://github.com/KyWa/ansible-for-openshift) - Using Ansible to Deploy an OpenShift 4.X cluster
 * [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
 
 ## 🌱 I’m currently learning ...
