@@ -22,6 +22,7 @@
 * [How We Enable](https://github.com/redhat-adsa/HowWeEnable) - A guide/workshop repository from Red Hat on enabling customers to utilize technology to their fullest potential
 * [Log4shell Detector](https://github.com/Neo23x0/log4shell-detector) - Python code to dig and detect `log4j` vulnerabilities
 * [Podman ML Containers](https://github.com/mjlbach/podman_ml_containers) - Using containers to run ML workloads for reasearch
+* [ArgoCD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - ArgoCD plugin to retrieve secrets from various Secret Management tools
 
 [mineOps]: https://github.com/KyWa/mineOps
 [linkedin-url]: https://www.linkedin.com/in/kyle-walker-5b151335/
