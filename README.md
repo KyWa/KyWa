@@ -1,7 +1,7 @@
 # Kyle Walker 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/KyWa/github-readme-stats)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/anuraghazra/github-readme-stats.git)
 
 ## 🔭 I’m currently working on ...
 * [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
