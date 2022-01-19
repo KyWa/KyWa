@@ -5,7 +5,7 @@
 
 ## 🔭 I’m currently working on ...
 * [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
-* [ArgoCD Bootstrap](https://github.com/KyWa/kywa-kube-dd) - ArgoCD Bootstrap for `docker-desktop` Kubernetes installations
+* [ArgoCD Bootstrap](https://github.com/KyWa/kywa-argo) - ArgoCD Bootstrap for `docker-desktop` Kubernetes installations
 
 ## 🌱 I’m currently learning ...
 * [Helm](https://helm.sh) - v3 is actually quite amazing and coming from Ansible, the templating is somewhat easy to pick up
