@@ -3,9 +3,7 @@
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/anuraghazra/github-readme-stats.git)
 
-## 🔭 I’m currently working on ...
-* [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
-* [ArgoCD Bootstrap](https://github.com/KyWa/kywa-argo) - ArgoCD Bootstrap for `docker-desktop` Kubernetes installations
+<!-- ## 🔭 I’m currently working on ... -->
 
 ## 🌱 I’m currently learning ...
 * [Helm](https://helm.sh) - v3 is actually quite amazing and coming from Ansible, the templating is somewhat easy to pick up
@@ -20,6 +18,7 @@
 * I have a brand of shoes named after me, but not really. There is a pro skateboarder named Kyle Walker who has his own line of shoes from [Vans](https://www.vans.com/shop/skate-shoes#facet=ads_f40501_ntk_cs%253A%2522Kyle%2BWalker%2522&beginIndex=0). Its always fun to show people "my" shoes :D
 
 ## ⭐️ Notable Projects and Contributions ...
+* [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
 * [Ansible for OpenShift](https://github.com/KyWa/ansible-for-openshift) - Using Ansible to Deploy an OpenShift 4.X cluster on Red Hat Virtualization 4.3+
 * [How We Enable](https://github.com/redhat-adsa/HowWeEnable) - A guide/workshop repository from Red Hat on enabling customers to utilize technology to their fullest potential
 * [Log4shell Detector](https://github.com/Neo23x0/log4shell-detector) - Python code to dig and detect `log4j` vulnerabilities
