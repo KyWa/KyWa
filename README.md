@@ -4,7 +4,7 @@
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/anuraghazra/github-readme-stats.git)
 
 ## 🔭 I’m currently working on ...
-* Containzerizing Applications - A new blog post showing some easy to get going tools for developing reusable Container Images via [s2](https://github.com/openshift/source-to-image)
+* Containzerizing Applications - A new blog post showing some easy to get going tools for developing reusable Container Images via [s2i](https://github.com/openshift/source-to-image)
 
 ## 🌱 I’m currently learning ...
 * [Helm](https://helm.sh) - v3 is actually quite amazing and coming from Ansible, the templating is somewhat easy to pick up
