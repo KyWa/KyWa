@@ -3,11 +3,11 @@
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/anuraghazra/github-readme-stats.git)
 
-<!-- ## 🔭 I’m currently working on ... -->
+## 🔭 I’m currently working on ...
+* Containzerizing Applications - A new blog post showing some easy to get going tools for developing reusable Container Images via [s2](https://github.com/openshift/source-to-image)
 
 ## 🌱 I’m currently learning ...
 * [Helm](https://helm.sh) - v3 is actually quite amazing and coming from Ansible, the templating is somewhat easy to pick up
-* [Tekton](https://tekton.dev) - An amazing pipeline/workflow platform. The logic of the objects is very "Ansible like" and makes it easy to pick up. This is the upstream project for [OpenShift Pipelines](https://cloud.redhat.com/learn/topics/ci-cd) from Red Hat
 * [GitHub Actions](https://github.com/features/actions) - These have been on my radar for a while now, but a use-case finally came about on a project I work on to dig deeper into this
  
 ## 👯 I’m looking to collaborate on ...
@@ -15,7 +15,7 @@
 * Most tooling in the DevOps world.
  
 ## ⚡ Fun fact ...
-* I have a brand of shoes named after me, but not really. There is a pro skateboarder named Kyle Walker who has his own line of shoes from [Vans](https://www.vans.com/shop/skate-shoes#facet=ads_f40501_ntk_cs%253A%2522Kyle%2BWalker%2522&beginIndex=0). Its always fun to show people "my" shoes :D
+* I have a brand of shoes named after me, but not really. There is a pro skateboarder named Kyle Walker who has his own line of shoes from [Vans](https://www.vans.com/en-us/search/product?q=kyle%20walker). Its always fun to show people "my" shoes :D
 
 ## ⭐️ Notable Projects and Contributions ...
 * [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
