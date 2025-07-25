@@ -21,7 +21,7 @@
 * I have a brand of shoes named after me, but not really. There is a pro skateboarder named Kyle Walker who has his own line of shoes from [Vans](https://www.vans.com/en-us/p/shoes/black-7001/kyle-walker-shoe-VN0A5JIEY28). Its always fun to show people "my" shoes :D
 
 ## ⭐️ Projects and Contributions ...
-* [mineOps](https://github.com/KyWa/mineOps) - Teaching DevOps tooling with Minecraft Server
+* [mineOps](https://github.com/KyWa/blogs/tree/master/mineOps) - Teaching DevOps tooling with Minecraft Server
 * [Ansible for OpenShift](https://github.com/KyWa/ansible-for-openshift) - Using Ansible to Deploy an OpenShift 4.X cluster on Red Hat Virtualization 4.3+
 * [How We Enable](https://github.com/redhat-adsa/HowWeEnable) - A guide/workshop repository from Red Hat on enabling customers to utilize technology to their fullest potential
 * [Log4shell Detector](https://github.com/Neo23x0/log4shell-detector) - Python code to dig and detect `log4j` vulnerabilities
