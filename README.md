@@ -1,7 +1,8 @@
 # Kyle Walker 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/anuraghazra/github-readme-stats.git)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyWa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔭 I’m currently working on ...
 * Building out an easy to digest "getting started" guide for application developers utilizing OpenShift
